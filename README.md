@@ -1,14 +1,11 @@
 # TTYL
 
-<img width="68" alt="Screenshot 2025-02-02 at 12 35 33 PM" src="https://github.com/user-attachments/assets/e82a9c5a-9429-408b-9c51-e63c3ae74146" />
+<img width="300" alt="Screenshot 2025-02-02 at 12 35 33 PM" src="https://github.com/user-attachments/assets/e82a9c5a-9429-408b-9c51-e63c3ae74146" />
 
 
 ## Description
 
 TTYL is a personal project that leverages the MERN stack (MongoDB, Express.js, React, and Node.js) to provide a seamless user experience for authentication and profile management. The app features a dynamic theme based on user preferences and ensures secure access to user-specific pages.
-
-<img width="1176" alt="Screenshot 2025-02-02 at 12 35 20 PM" src="https://github.com/user-attachments/assets/4e7b205b-f852-4385-bf43-137086906cb0" />
-
 
 ## Features
 
@@ -16,6 +13,10 @@ TTYL is a personal project that leverages the MERN stack (MongoDB, Express.js, R
 - Dynamic Theming
 - Profile Management
 - Responsive Design
+
+<img width="1176" alt="Screenshot 2025-02-02 at 12 35 20 PM" src="https://github.com/user-attachments/assets/4e7b205b-f852-4385-bf43-137086906cb0" />
+
+
 
 ## Technologies Used
 
